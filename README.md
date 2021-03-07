@@ -1,5 +1,5 @@
 # PIB-e-Energy-Supply
-Neste estudo de caso será analisada alguns indicadores dos últimos 10 anos das 15 maiores economias do mundo. Para fazer isso, será utilizado 3 dataset. A analise foi feita utilizando python com o Jupyter Notebook.
+Neste estudo de caso foi analisada alguns indicadores dos últimos 10 anos das 15 maiores economias do mundo. Para fazer isso, foram utilizados 3 dataset. A analise foi foi utilizando python com o Jupyter Notebook.
 
 O primeiro dataset, para analisar os Indicadores de Energia, Energy Indicators.xls, é uma lista de indicadores de fornecimento de energia e produção de eletricidade renovável das Nações Unidas do ano de 2013 com a última atualização sendo de 2017. https://datacatalog.worldbank.org/dataset/mena-energy-indicators-2017
 
